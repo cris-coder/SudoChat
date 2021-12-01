@@ -1,5 +1,5 @@
 {
-    "name": "Sudo Chat",
+    "name": "mirotalk",
     "version": "1.0.0",
     "description": "A free WebRTC browser-based video call",
     "main": "server.js",
